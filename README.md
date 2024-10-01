@@ -15,7 +15,7 @@ Examples: 	<br />
 "!give zmotan ALL"<br />
 
 Note: Works with Youtube Tag or just with name ( "@zmotan" / "zmotan" )<br />
- ![Preview Image](https://github.com/zmotan/Streamlabs-Chatbot-Give-command-for-Youtube/blob/main/Preview.png)
+ ![Preview Image](https://raw.githubusercontent.com/69haha420/Streamlabs-Chatbot-Give-command-for-Youtube/refs/heads/main/Preview.png)
  <br />
 
 Possible parameters:<br />
@@ -24,8 +24,7 @@ $user = giver name<br />
 $points = how many points giver currently have<br />
 $currency = currency name (set in chatbot)<br />
 $command = command name<br />
-![Preview SLChatbot](https://github.com/zmotan/Streamlabs-Chatbot-Give-command-for-Youtube/blob/main/PreviewSLChatbot.png)<br/>
-
+![Preview SLChatbot](https://raw.githubusercontent.com/69haha420/Streamlabs-Chatbot-Give-command-for-Youtube/refs/heads/main/PreviewSLChatbot.png)<br/>
 
 
 Patch Notes:<br />
